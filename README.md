@@ -1,6 +1,6 @@
 This is a repository of my Google Data Analytics Professional Certificate course and the practice work I have worked on. If you feel interested in the realm of data analytics, or if you are simply curious on what this course entails, please have a look!
 
-The following is taken from the [Coursera Google Data Analytics Professional Certificate overview page](url): 
+The following is taken from the [Coursera Google Data Analytics Professional Certificate overview page]([url](https://www.coursera.org/professional-certificates/google-data-analytics)) 
 
 What I learned:
 - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
